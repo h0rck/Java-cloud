@@ -15,5 +15,5 @@ management:
       show-details: ALWAYS
 
 greeting-service:
-  greeting: "ol·"
+  greeting: "ol√°"
   default-value: "Mundo"
